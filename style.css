@@ -1,0 +1,44 @@
+body{
+    background-color: #fff;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1000px;
+    margin: auto;
+   
+}
+
+#form-text{
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial,  sans-serif;
+    width: 1000px;
+    margin: auto;
+   
+}
+td, th {
+    border: solid black 10px;
+}
+
+caption {
+    font-size: 25px;
+    margin-top: 25px;
+    padding-bottom: 10px;
+    font-style: initial;
+}
+
+.table th {
+    background-color: #565656;
+    color: #fff;
+}
+
+
+.form-text {
+    padding: 20px;
+}
+
+.highlight {
+    color: red;
+}
